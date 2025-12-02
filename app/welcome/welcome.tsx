@@ -50,7 +50,7 @@ export function Welcome({ message }: { message: string }) {
 const resources = [
   {
     href: "https://www.notion.so/2b4e21a456ac807c9789fd42972845b1",
-    text: "Notion Page",
+    text: "노션",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -76,7 +76,7 @@ const resources = [
   },
   {
     href: "https://docs.google.com/spreadsheets/d/1YeCNpMIq4gUblUnRmWw9AzabphfDZMnJ/edit?gid=599314211#gid=599314211",
-    text: "Google Sheets",
+    text: "견적",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
